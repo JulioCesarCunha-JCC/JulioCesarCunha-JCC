@@ -1,8 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Julio%20Cunha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20%7C%20Segurança%20%7C%20Open%20Source&descSize=20&descAlignY=60" width="100%" alt="header" />
-
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Julio%20Cunha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20%7C%20Seguran%C3%A7a%20%7C%20Open%20Source&descSize=20&descAlignY=60" width="100%" alt="header" />
 </div>
 
 <br>
@@ -21,45 +18,31 @@
 ## 🧰 Tecnologias
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,cpp,linux,mysql,androidstudio,arduino,git&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="48" alt="fedora" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="48" alt="fedora" />
 </div>
 
 ## 📊 Estatísticas
 <div align="center">
-<img height="170" src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/languages-output/languages.svg" alt="linguagens" />
+  <img height="170" src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/languages-output/languages.svg" alt="linguagens" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioCesarCunha-JCC&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 </div>
 
 ## 📈 Atividade
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/activity-graph-output/activity-graph.svg" width="100%" alt="activity graph" />
 </div>
 
 ## 🐍 Contribuições
 <div align="center">
   <picture>
-    
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman" src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JulioCesarCunha-JCC.JulioCesarCunha-JCC" />
 </div>
