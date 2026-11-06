@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Julio%20Cunha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20%7C%20Segurança%20%7C%20Open%20Source&descSize=20&descAlignY=60" width="100%" alt="header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Go+%7C+C%2B%2B+%7C+MySQL;Linux+%26+Fedora;Cibersegurança+no+TryHackMe" alt="typing" />
+ 
 </div>
 
 <br>
@@ -39,11 +39,20 @@
 ## 🐍 Contribuições
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/pacman-output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/pacman-output/pacman-contribution-graph.svg">
-  </picture>
+    
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO" />
