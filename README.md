@@ -20,13 +20,13 @@
 
 ## 🧰 Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,linux,fedora,mysql,androidstudio,arduino,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,linux,mysql,androidstudio,arduino,git&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="48" alt="fedora" />
 </div>
 
 ## 📊 Estatísticas
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/languages-output/languages.svg" alt="linguagens" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
