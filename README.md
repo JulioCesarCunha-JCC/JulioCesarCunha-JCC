@@ -17,7 +17,7 @@
 
 ## 🧰 Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,linux,mysql,androidstudio,arduino,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,linux,mysql,androidstudio,arduino&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="48" alt="fedora" />
 </div>
 
