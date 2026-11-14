@@ -25,12 +25,6 @@
 <div align="center">
   <img height="170" src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/languages-output/languages.svg" alt="linguagens" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioCesarCunha-JCC&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-</div>
-
-## 📈 Atividade
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JulioCesarCunha-JCC/JulioCesarCunha-JCC/activity-graph-output/activity-graph.svg" width="100%" alt="activity graph" />
 </div>
 
 ## 🐍 Contribuições
